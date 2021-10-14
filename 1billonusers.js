@@ -13,5 +13,5 @@ function getBillionUsersDay(growthRates) {
       day++;
     }
       
-    return day-1;
+    return day-1; 
   }
